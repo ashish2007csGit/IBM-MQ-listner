@@ -1,0 +1,15 @@
+servers.mq.host= emqd3.delta.com
+servers.mq.port= 1414
+servers.mq.queue-manager= EMQ03DVL
+servers.mq.channel= WFM.QCF.SVRCONN
+servers.mq.timeout= 2000
+servers.mq.queue= WFM.AGENT.NOTIFICATION.Q
+
+
+
+servers.mq.host=localhost
+servers.mq.port= 1414
+servers.mq.queue-manager=QM1
+servers.mq.channel=DEV.APP.SVRCONN
+servers.mq.timeout=2000
+servers.mq.queue=DEV.QUEUE.1
